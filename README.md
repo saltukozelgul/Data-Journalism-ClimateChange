@@ -16,3 +16,6 @@ https://www.kaggle.com/datasets/kumarajarshi/lifeexpectancy-who
 https://www.kaggle.com/datasets/edqian/twitter-climatechange-sentiment-dataset
 * [7] Investments Data
 https://climatedata.imf.org/pages/access-data
+
+
+![The San Juan Mountains are beautiful!](https://i.imgur.com/96gKr9Y.jpg "San Juan Mountains")
